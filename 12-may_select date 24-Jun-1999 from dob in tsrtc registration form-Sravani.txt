@@ -1,0 +1,68 @@
+package demoProject;
+
+import java.util.List;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+public class HandlinhDateObjectStatic {
+ 
+	public static void main(String[] args) {
+	
+		WebDriver driver = new ChromeDriver();
+		driver.manage().window().maximize();
+
+//		driver.get("https://www.tsrtconline.in/oprs-web/");
+//		driver.findElement(By.className("user")).click();
+//		driver.findElement(By.className("alinkColor")).click();
+//		
+//		driver.findElement(By.name("txtDob")).click();
+//		driver.findElement(By.xpath("//option[text()='Jun']")).click();
+//		driver.findElement(By.xpath("//option[text()='1999']")).click();
+//		driver.findElement(By.xpath("//a[text()='24']")).click();
+//		
+
+
+		
+		 String Yeartoselect="1999";
+		 String Monthtoselect = "Jun";
+		 String Daytoselect = "24";
+		 
+		driver.get("https://www.tsrtconline.in/oprs-web/");
+		driver.findElement(By.linkText("eTicket Login")).click();
+		driver.findElement(By.className("alinkColor")).click();
+		
+     
+    driver.findElement(By.name("txtDob")).click();
+    List <WebElement>	yearobj =driver.findElements(By.xpath("//select[@data-handler='selectYear']/option"));
+    for(WebElement year:yearobj) {
+    	if(year.getText().equalsIgnoreCase(Yeartoselect)) {
+    		year.click();
+    		break;
+    	}
+    }
+    
+    
+    List <WebElement>	dateobj =driver.findElements(By.xpath("//td[@data-handler='selectDay']/a"));
+	for(WebElement day :dateobj) {
+		if(day.getText().equalsIgnoreCase( Daytoselect)) {
+		day.click();
+		break;
+		}
+	}
+	
+  List<WebElement> monthobj = driver.findElements(By.xpath("//select[@data-handler='selectMonth']/option"));
+    for(WebElement month :monthobj) {
+    	if(month.getText().equalsIgnoreCase(Monthtoselect)) {
+    		month.click();
+    		break;
+    	}
+    	
+    }
+    
+	
+	}
+
+}
