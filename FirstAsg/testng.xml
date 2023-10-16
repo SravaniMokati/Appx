@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+		<parameter name="UserName" value=""></parameter>
+
+  <test name="DevEnvironment" parallel="tests" thread-count="2">
+	  <parameter name="environment" value="dev"></parameter>
+    <classes>
+      <class name="base.homeModuleTest"/>
+       
+    </classes>
+  </test> <!-- Test -->
+    <test name="testEnvironment" parallel="classes" thread-count="2">
+		  <parameter name="environment" value="testing"></parameter>
+    <classes>
+      <class name="base.homeModuleTest"/>
+    
+    </classes>
+  </test> <!-- Test -->
+  
+    <test name="Product" parallel="classes" thread-count="2">
+    <parameter name="environment" value="product"></parameter>
+    <classes>
+      <class name="base.homeModuleTest"/>
+    </classes>
+  </test> <!-- Test -->
+
+</suite> <!-- Suite -->

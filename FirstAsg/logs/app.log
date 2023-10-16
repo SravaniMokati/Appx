@@ -1,0 +1,384 @@
+[INFO ] 2023-10-12 06:44:21.385 [main] homeModuleTest - Strating the E-commerce scenarion test.
+[INFO ] 2023-10-12 10:20:49.989 [main] homeModuleTest - browser is open
+[INFO ] 2023-10-12 10:20:50.223 [main] homeModuleTest - Strating the E-commerce scenarion test.
+[INFO ] 2023-10-12 10:21:01.859 [main] Password - you sucessfully signed to your accout.
+[INFO ] 2023-10-12 10:21:09.554 [main] ProductSelection - we clicked product details: /nSponsored
+Shumee Wooden Butterfly Balance Board (3-8 Years) - Indoor & Outdoor Activity Fitness Toy for Kids
+184
+Great Indian Festival
+₹3,149 M.R.P:
+₹3,499 (10% off)
+Save 2% with coupon
+Get it by Saturday, 21 October
+FREE Delivery by Amazon
+Ages: 36 months - 8 years
+[INFO ] 2023-10-12 10:21:09.586 [main] ProductSelection - switch to sub window.
+[INFO ] 2023-10-12 10:21:51.544 [main] ProductClick - selected the product quantity '3'
+[ERROR] 2023-10-12 10:21:56.748 [main] AddingCart - failed to add to the product to the cart.
+[INFO ] 2023-10-12 11:12:08.688 [main] homeModuleTest - browser is open
+[INFO ] 2023-10-12 11:12:08.860 [main] homeModuleTest - Strating the E-commerce scenarion test.
+[INFO ] 2023-10-12 11:12:14.997 [main] Password - you sucessfully signed to your accout.
+[INFO ] 2023-10-12 11:12:22.627 [main] ProductSelection - we clicked product details: /nSponsored
+Shumee Dinosaur Wooden 3D Puzzle- 20 Pieces (3 Years+ Toddlers Kids Preschool Age Children) Educational Toy- Learn Alphabets A to Z & Numbers 1 to 20
+74
+Great Indian Festival
+₹1,349 M.R.P:
+₹1,499 (10% off)
+Save 2% with coupon
+Get it by Saturday, 21 October
+FREE Delivery by Amazon
+Ages: 36 months - 5 years
+[INFO ] 2023-10-12 11:12:22.663 [main] ProductSelection - switch to sub window.
+[INFO ] 2023-10-12 11:13:00.546 [main] ProductClick - selected the product quantity '3'
+[ERROR] 2023-10-12 11:13:06.894 [main] AddingCart - failed to add to the product to the cart.
+[INFO ] 2023-10-12 11:13:15.765 [main] homeModuleTest - browser is open
+[INFO ] 2023-10-12 11:13:16.013 [main] homeModuleTest - Strating the E-commerce scenarion test.
+[INFO ] 2023-10-12 11:13:24.656 [main] Password - you sucessfully signed to your accout.
+[INFO ] 2023-10-12 11:13:32.613 [main] ProductSelection - we clicked product details: /nSponsored
+Shumee Wooden Butterfly Balance Board (3-8 Years) - Indoor & Outdoor Activity Fitness Toy for Kids
+184
+Great Indian Festival
+₹3,149 M.R.P:
+₹3,499 (10% off)
+Save 2% with coupon
+Get it by Friday, 27 October
+FREE Delivery by Amazon
+Ages: 36 months - 8 years
+[INFO ] 2023-10-12 12:00:56.025 [main] homeModuleTest - browser is open
+[INFO ] 2023-10-12 12:00:56.271 [main] homeModuleTest - Strating the E-commerce scenarion test.
+[INFO ] 2023-10-12 12:01:02.507 [main] SignInEmail - navigated to https://www.amazon.in/ap/signin?openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.in%2F%3Fref_%3Dnav_signin&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=inflex&openid.mode=checkid_setup&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0Amazon Sign In
+[INFO ] 2023-10-12 12:01:04.456 [main] Password - navigated tohttps://www.amazon.in/ap/signinAmazon Sign In
+[INFO ] 2023-10-12 12:01:04.868 [main] Password - you sucessfully signed to your accout.
+[INFO ] 2023-10-12 12:01:08.138 [main] HomePage - navigated tohttps://www.amazon.in/?ref_=nav_signinOnline Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+[INFO ] 2023-10-12 12:01:13.363 [main] ProductSelection - navigated tohttps://www.amazon.in/s?k=toys+for+girls&crid=1THKK7UZ1V152&sprefix=toys+for+girls%2Caps%2C278&ref=nb_sb_noss_1Amazon.in : toys for girls
+[INFO ] 2023-10-12 12:01:14.625 [main] ProductSelection - we clicked product details: /nSponsored
+Skillmatics Art & Craft Activity - Foil Fun Unicorns & Princesses, No Mess Art for Kids, Craft Kits & Supplies, DIY Creative Activity, Gifts for Girls & Boys Ages 4, 5, 6, 7, 8, 9, Travel Toys
+114
+700+ bought in past month
+Great Indian Festival
+₹799 M.R.P:
+₹999 (20% off)
+Get it by Tomorrow, 13 October
+FREE Delivery by Amazon
+[INFO ] 2023-10-12 12:01:14.689 [main] ProductSelection - switch to sub window.
+[INFO ] 2023-10-12 12:01:53.992 [main] ProductClick - navigated tohttps://www.amazon.in/Skillmatics-Art-Craft-Activity-Princesses/dp/B0BVMZHYFN/ref=sr_1_2_sspa?crid=1THKK7UZ1V152&keywords=toys%2Bfor%2Bgirls&qid=1697092269&sprefix=toys%2Bfor%2Bgirls%2Caps%2C278&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1Buy Skillmatics Art & Craft Activity - Foil Fun Unicorns & Princesses, No Mess Art for Kids, Craft Kits & Supplies, DIY Creative Activity, Gifts for Girls & Boys Ages 4, 5, 6, 7, 8, 9, Travel Toys Online at Low Prices in India - Amazon.in
+[INFO ] 2023-10-12 12:01:54.554 [main] ProductClick - selected the product quantity '3'
+[INFO ] 2023-10-12 12:01:57.577 [main] AddingCart - navigated tohttps://www.amazon.in/cart/smart-wagon?newItems=e2ef01d7-d338-4e56-9fd4-e87c1280abd8,3&ref_=sw_refreshAmazon.in Shopping Cart
+[INFO ] 2023-10-12 12:02:00.537 [main] AddingCart - product add to the cart successfully
+[INFO ] 2023-10-12 12:02:00.563 [main] AddingCart - navigated tohttps://www.amazon.in/cart?ref_=sw_gtcAmazon.in Shopping Cart
+[INFO ] 2023-10-12 12:02:02.627 [main] AddingCart - navigated tohttps://www.amazon.in/ap/signin?openid.pape.max_auth_age=900&openid.return_to=https%3A%2F%2Fwww.amazon.in%2Fgp%2Fyourstore%2Fhome%3Fpath%3D%252Fgp%252Fyourstore%252Fhome%26useRedirectOnSuccess%3D1%26signIn%3D1%26action%3Dsign-out%26ref_%3Dnav_AccountFlyout_signout&openid.assoc_handle=inflex&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0Amazon Sign In
+[INFO ] 2023-10-12 12:29:27.840 [main] homeModuleTest - browser is open
+[INFO ] 2023-10-12 12:29:28.045 [main] homeModuleTest - Strating the E-commerce scenarion test.
+[INFO ] 2023-10-12 12:29:36.967 [main] Password - you sucessfully signed to your accout.
+[INFO ] 2023-10-12 12:29:40.078 [main] HomePage - navigated toOnline Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.inhttps://www.amazon.in/?ref_=nav_signin
+[INFO ] 2023-10-12 12:29:47.388 [main] ProductSelection - we clicked product details: /nSponsored
+Skillmatics Art & Craft Activity - Foil Fun Unicorns & Princesses, No Mess Art for Kids, Craft Kits & Supplies, DIY Creative Activity, Gifts for Girls & Boys Ages 4, 5, 6, 7, 8, 9, Travel Toys
+114
+700+ bought in past month
+Great Indian Festival
+₹799 M.R.P:
+₹999 (20% off)
+Get it by Tomorrow, 13 October
+FREE Delivery by Amazon
+[INFO ] 2023-10-12 12:29:47.426 [main] ProductSelection - switch to sub window.
+[INFO ] 2023-10-12 12:30:27.976 [main] ProductClick - selected the product quantity '3'
+[INFO ] 2023-10-12 12:30:35.123 [main] AddingCart - product add to the cart successfully
+[INFO ] 2023-10-12 12:46:09.268 [main] homeModuleTest - browser is open
+[INFO ] 2023-10-12 12:46:09.535 [main] homeModuleTest - Strating the E-commerce scenarion test.
+[INFO ] 2023-10-12 12:46:17.975 [main] Password - you sucessfully signed to your accout.
+[INFO ] 2023-10-12 12:46:21.152 [main] HomePage - navigated toOnline Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.inhttps://www.amazon.in/?ref_=nav_signin
+[INFO ] 2023-10-12 12:46:28.321 [main] ProductSelection - we clicked product details: /nSponsored
+Smartivity DIY Earth-Sun-Moon STEM Fun Toy, Educational & Construction Based Activity Game Kit for Kids 8 to 14, Best Birthday Gift for Boys & Girls, Learn Science Engineering Project, Made in India
+1,356
+300+ bought in past month
+Great Indian Festival
+₹947 M.R.P:
+₹1,099 (14% off)
+3% off
+Get it by Friday, 20 October
+FREE Delivery by Amazon
+Ages: 6 - 14 years
+[INFO ] 2023-10-12 12:46:28.494 [main] ProductSelection - switch to sub window.
+[INFO ] 2023-10-12 12:47:07.775 [main] ProductClick - selected the product quantity '3'
+[ERROR] 2023-10-12 12:47:13.307 [main] AddingCart - failed to add to the product to the cart.
+[DEBUG] 2023-10-12 14:27:40.258 [main] InternalLoggerFactory - Using Log4J2 as the default logging framework
+[DEBUG] 2023-10-12 14:27:40.292 [main] ResourceLeakDetector - -Dio.netty.leakDetection.level: simple
+[DEBUG] 2023-10-12 14:27:40.293 [main] ResourceLeakDetector - -Dio.netty.leakDetection.targetRecords: 4
+[DEBUG] 2023-10-12 14:27:40.307 [main] ResourceLeakDetectorFactory - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@3051e0b2
+[DEBUG] 2023-10-12 14:27:40.352 [main] PlatformDependent0 - -Dio.netty.noUnsafe: false
+[DEBUG] 2023-10-12 14:27:40.353 [main] PlatformDependent0 - Java version: 17
+[DEBUG] 2023-10-12 14:27:40.355 [main] PlatformDependent0 - sun.misc.Unsafe.theUnsafe: available
+[DEBUG] 2023-10-12 14:27:40.356 [main] PlatformDependent0 - sun.misc.Unsafe.copyMemory: available
+[DEBUG] 2023-10-12 14:27:40.357 [main] PlatformDependent0 - sun.misc.Unsafe.storeFence: available
+[DEBUG] 2023-10-12 14:27:40.358 [main] PlatformDependent0 - java.nio.Buffer.address: available
+[DEBUG] 2023-10-12 14:27:40.360 [main] PlatformDependent0 - direct buffer constructor: unavailable
+java.lang.UnsupportedOperationException: Reflective setAccessible(true) disabled
+	at io.netty.util.internal.ReflectionUtil.trySetAccessible(ReflectionUtil.java:31) ~[netty-common-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.util.internal.PlatformDependent0$5.run(PlatformDependent0.java:289) ~[netty-common-4.1.96.Final.jar:4.1.96.Final]
+	at java.security.AccessController.doPrivileged(AccessController.java:318) ~[?:?]
+	at io.netty.util.internal.PlatformDependent0.<clinit>(PlatformDependent0.java:282) [netty-common-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.util.internal.PlatformDependent.isAndroid(PlatformDependent.java:333) [netty-common-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.util.internal.PlatformDependent.<clinit>(PlatformDependent.java:88) [netty-common-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.util.HashedWheelTimer.<init>(HashedWheelTimer.java:114) [netty-common-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.util.HashedWheelTimer.<init>(HashedWheelTimer.java:251) [netty-common-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.util.HashedWheelTimer.<init>(HashedWheelTimer.java:224) [netty-common-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.util.HashedWheelTimer.<init>(HashedWheelTimer.java:203) [netty-common-4.1.96.Final.jar:4.1.96.Final]
+	at org.asynchttpclient.DefaultAsyncHttpClient.newNettyTimer(DefaultAsyncHttpClient.java:111) [async-http-client-2.12.3.jar:?]
+	at org.asynchttpclient.DefaultAsyncHttpClient.<init>(DefaultAsyncHttpClient.java:90) [async-http-client-2.12.3.jar:?]
+	at org.asynchttpclient.Dsl.asyncHttpClient(Dsl.java:32) [async-http-client-2.12.3.jar:?]
+	at org.openqa.selenium.remote.http.netty.NettyClient.createHttpClient(NettyClient.java:91) [selenium-remote-driver-4.13.0.jar:?]
+	at org.openqa.selenium.remote.http.netty.NettyClient.<clinit>(NettyClient.java:43) [selenium-remote-driver-4.13.0.jar:?]
+	at org.openqa.selenium.remote.http.netty.NettyClient$Factory.createClient(NettyClient.java:124) [selenium-remote-driver-4.13.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.<init>(HttpCommandExecutor.java:115) [selenium-remote-driver-4.13.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.<init>(HttpCommandExecutor.java:92) [selenium-remote-driver-4.13.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.<init>(DriverCommandExecutor.java:89) [selenium-remote-driver-4.13.0.jar:?]
+	at org.openqa.selenium.chromium.ChromiumDriverCommandExecutor.<init>(ChromiumDriverCommandExecutor.java:43) [selenium-chromium-driver-4.13.0.jar:?]
+	at org.openqa.selenium.edge.EdgeDriver$EdgeDriverCommandExecutor.<init>(EdgeDriver.java:87) [selenium-edge-driver-4.13.0.jar:?]
+	at org.openqa.selenium.edge.EdgeDriver.generateExecutor(EdgeDriver.java:77) [selenium-edge-driver-4.13.0.jar:?]
+	at org.openqa.selenium.edge.EdgeDriver.<init>(EdgeDriver.java:60) [selenium-edge-driver-4.13.0.jar:?]
+	at org.openqa.selenium.edge.EdgeDriver.<init>(EdgeDriver.java:56) [selenium-edge-driver-4.13.0.jar:?]
+	at org.openqa.selenium.edge.EdgeDriver.<init>(EdgeDriver.java:48) [selenium-edge-driver-4.13.0.jar:?]
+	at org.openqa.selenium.edge.EdgeDriver.<init>(EdgeDriver.java:44) [selenium-edge-driver-4.13.0.jar:?]
+	at base.init.BrowserInitilization(init.java:38) [classes/:?]
+	at base.homeModuleTest.browser(homeModuleTest.java:32) [test-classes/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) [org.testng_7.8.0.r202306071539.jar:7.8.0]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69) [org.testng_7.8.0.r202306071539.jar:7.8.0]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:390) [org.testng_7.8.0.r202306071539.jar:7.8.0]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:325) [org.testng_7.8.0.r202306071539.jar:7.8.0]
+	at org.testng.TestRunner.invokeTestConfigurations(TestRunner.java:663) [org.testng_7.8.0.r202306071539.jar:7.8.0]
+	at org.testng.TestRunner.beforeRun(TestRunner.java:652) [org.testng_7.8.0.r202306071539.jar:7.8.0]
+	at org.testng.TestRunner.run(TestRunner.java:614) [org.testng_7.8.0.r202306071539.jar:7.8.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:443) [org.testng_7.8.0.r202306071539.jar:7.8.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437) [org.testng_7.8.0.r202306071539.jar:7.8.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397) [org.testng_7.8.0.r202306071539.jar:7.8.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:336) [org.testng_7.8.0.r202306071539.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [org.testng_7.8.0.r202306071539.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [org.testng_7.8.0.r202306071539.jar:7.8.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280) [org.testng_7.8.0.r202306071539.jar:7.8.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1200) [org.testng_7.8.0.r202306071539.jar:7.8.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1114) [org.testng_7.8.0.r202306071539.jar:7.8.0]
+	at org.testng.TestNG.run(TestNG.java:1082) [org.testng_7.8.0.r202306071539.jar:7.8.0]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77) [testng-remote.jar:?]
+[DEBUG] 2023-10-12 14:27:40.380 [main] PlatformDependent0 - java.nio.Bits.unaligned: available, true
+[DEBUG] 2023-10-12 14:27:40.382 [main] PlatformDependent0 - jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable
+java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent0$7 cannot access class jdk.internal.misc.Unsafe (in module java.base) because module java.base does not export jdk.internal.misc to unnamed module @6276ae34
+	at jdk.internal.reflect.Reflection.newIllegalAccessException(Reflection.java:392) ~[?:?]
+	at java.lang.reflect.AccessibleObject.checkAccess(AccessibleObject.java:674) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:560) ~[?:?]
+	at io.netty.util.internal.PlatformDependent0$7.run(PlatformDependent0.java:411) ~[netty-common-4.1.96.Final.jar:4.1.96.Final]
+	at java.security.AccessController.doPrivileged(AccessController.java:318) ~[?:?]
+	at io.netty.util.internal.PlatformDependent0.<clinit>(PlatformDependent0.java:402) [netty-common-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.util.internal.PlatformDependent.isAndroid(PlatformDependent.java:333) [netty-common-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.util.internal.PlatformDependent.<clinit>(PlatformDependent.java:88) [netty-common-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.util.HashedWheelTimer.<init>(HashedWheelTimer.java:114) [netty-common-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.util.HashedWheelTimer.<init>(HashedWheelTimer.java:251) [netty-common-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.util.HashedWheelTimer.<init>(HashedWheelTimer.java:224) [netty-common-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.util.HashedWheelTimer.<init>(HashedWheelTimer.java:203) [netty-common-4.1.96.Final.jar:4.1.96.Final]
+	at org.asynchttpclient.DefaultAsyncHttpClient.newNettyTimer(DefaultAsyncHttpClient.java:111) [async-http-client-2.12.3.jar:?]
+	at org.asynchttpclient.DefaultAsyncHttpClient.<init>(DefaultAsyncHttpClient.java:90) [async-http-client-2.12.3.jar:?]
+	at org.asynchttpclient.Dsl.asyncHttpClient(Dsl.java:32) [async-http-client-2.12.3.jar:?]
+	at org.openqa.selenium.remote.http.netty.NettyClient.createHttpClient(NettyClient.java:91) [selenium-remote-driver-4.13.0.jar:?]
+	at org.openqa.selenium.remote.http.netty.NettyClient.<clinit>(NettyClient.java:43) [selenium-remote-driver-4.13.0.jar:?]
+	at org.openqa.selenium.remote.http.netty.NettyClient$Factory.createClient(NettyClient.java:124) [selenium-remote-driver-4.13.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.<init>(HttpCommandExecutor.java:115) [selenium-remote-driver-4.13.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.<init>(HttpCommandExecutor.java:92) [selenium-remote-driver-4.13.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.<init>(DriverCommandExecutor.java:89) [selenium-remote-driver-4.13.0.jar:?]
+	at org.openqa.selenium.chromium.ChromiumDriverCommandExecutor.<init>(ChromiumDriverCommandExecutor.java:43) [selenium-chromium-driver-4.13.0.jar:?]
+	at org.openqa.selenium.edge.EdgeDriver$EdgeDriverCommandExecutor.<init>(EdgeDriver.java:87) [selenium-edge-driver-4.13.0.jar:?]
+	at org.openqa.selenium.edge.EdgeDriver.generateExecutor(EdgeDriver.java:77) [selenium-edge-driver-4.13.0.jar:?]
+	at org.openqa.selenium.edge.EdgeDriver.<init>(EdgeDriver.java:60) [selenium-edge-driver-4.13.0.jar:?]
+	at org.openqa.selenium.edge.EdgeDriver.<init>(EdgeDriver.java:56) [selenium-edge-driver-4.13.0.jar:?]
+	at org.openqa.selenium.edge.EdgeDriver.<init>(EdgeDriver.java:48) [selenium-edge-driver-4.13.0.jar:?]
+	at org.openqa.selenium.edge.EdgeDriver.<init>(EdgeDriver.java:44) [selenium-edge-driver-4.13.0.jar:?]
+	at base.init.BrowserInitilization(init.java:38) [classes/:?]
+	at base.homeModuleTest.browser(homeModuleTest.java:32) [test-classes/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) [org.testng_7.8.0.r202306071539.jar:7.8.0]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69) [org.testng_7.8.0.r202306071539.jar:7.8.0]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:390) [org.testng_7.8.0.r202306071539.jar:7.8.0]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:325) [org.testng_7.8.0.r202306071539.jar:7.8.0]
+	at org.testng.TestRunner.invokeTestConfigurations(TestRunner.java:663) [org.testng_7.8.0.r202306071539.jar:7.8.0]
+	at org.testng.TestRunner.beforeRun(TestRunner.java:652) [org.testng_7.8.0.r202306071539.jar:7.8.0]
+	at org.testng.TestRunner.run(TestRunner.java:614) [org.testng_7.8.0.r202306071539.jar:7.8.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:443) [org.testng_7.8.0.r202306071539.jar:7.8.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437) [org.testng_7.8.0.r202306071539.jar:7.8.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397) [org.testng_7.8.0.r202306071539.jar:7.8.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:336) [org.testng_7.8.0.r202306071539.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [org.testng_7.8.0.r202306071539.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [org.testng_7.8.0.r202306071539.jar:7.8.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280) [org.testng_7.8.0.r202306071539.jar:7.8.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1200) [org.testng_7.8.0.r202306071539.jar:7.8.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1114) [org.testng_7.8.0.r202306071539.jar:7.8.0]
+	at org.testng.TestNG.run(TestNG.java:1082) [org.testng_7.8.0.r202306071539.jar:7.8.0]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77) [testng-remote.jar:?]
+[DEBUG] 2023-10-12 14:27:40.387 [main] PlatformDependent0 - java.nio.DirectByteBuffer.<init>(long, {int,long}): unavailable
+[DEBUG] 2023-10-12 14:27:40.387 [main] PlatformDependent - sun.misc.Unsafe: available
+[DEBUG] 2023-10-12 14:27:40.388 [main] PlatformDependent - maxDirectMemory: 1992294400 bytes (maybe)
+[DEBUG] 2023-10-12 14:27:40.389 [main] PlatformDependent - -Dio.netty.tmpdir: C:\Users\Hp\AppData\Local\Temp (java.io.tmpdir)
+[DEBUG] 2023-10-12 14:27:40.389 [main] PlatformDependent - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+[DEBUG] 2023-10-12 14:27:40.390 [main] PlatformDependent - Platform: Windows
+[DEBUG] 2023-10-12 14:27:40.392 [main] PlatformDependent - -Dio.netty.maxDirectMemory: -1 bytes
+[DEBUG] 2023-10-12 14:27:40.392 [main] PlatformDependent - -Dio.netty.uninitializedArrayAllocationThreshold: -1
+[DEBUG] 2023-10-12 14:27:40.394 [main] CleanerJava9 - java.nio.ByteBuffer.cleaner(): available
+[DEBUG] 2023-10-12 14:27:40.394 [main] PlatformDependent - -Dio.netty.noPreferDirect: false
+[DEBUG] 2023-10-12 14:27:40.410 [main] PlatformDependent - org.jctools-core.MpscChunkedArrayQueue: available
+[DEBUG] 2023-10-12 14:27:40.456 [main] InternalThreadLocalMap - -Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+[DEBUG] 2023-10-12 14:27:40.456 [main] InternalThreadLocalMap - -Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+[DEBUG] 2023-10-12 14:27:40.687 [main] JdkSslContext - Default protocols (JDK): [TLSv1.3, TLSv1.2] 
+[DEBUG] 2023-10-12 14:27:40.688 [main] JdkSslContext - Default cipher suites (JDK): [TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_AES_128_GCM_SHA256, TLS_AES_256_GCM_SHA384]
+[DEBUG] 2023-10-12 14:27:40.717 [main] GlobalEventExecutor - -Dio.netty.globalEventExecutor.quietPeriodSeconds: 1
+[DEBUG] 2023-10-12 14:27:40.740 [main] MultithreadEventLoopGroup - -Dio.netty.eventLoopThreads: 8
+[DEBUG] 2023-10-12 14:27:40.760 [main] NioEventLoop - -Dio.netty.noKeySetOptimization: false
+[DEBUG] 2023-10-12 14:27:40.760 [main] NioEventLoop - -Dio.netty.selectorAutoRebuildThreshold: 512
+[TRACE] 2023-10-12 14:27:40.785 [main] NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@5d5160e6
+[TRACE] 2023-10-12 14:27:40.788 [main] NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@778d82e9
+[TRACE] 2023-10-12 14:27:40.791 [main] NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@408e96d9
+[TRACE] 2023-10-12 14:27:40.794 [main] NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@59901c4d
+[TRACE] 2023-10-12 14:27:40.798 [main] NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@168cd36b
+[TRACE] 2023-10-12 14:27:40.801 [main] NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@d8d9199
+[TRACE] 2023-10-12 14:27:40.804 [main] NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@3901f6af
+[TRACE] 2023-10-12 14:27:40.807 [main] NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@602ae7b6
+[DEBUG] 2023-10-12 14:27:40.854 [main] PooledByteBufAllocator - -Dio.netty.allocator.numHeapArenas: 8
+[DEBUG] 2023-10-12 14:27:40.854 [main] PooledByteBufAllocator - -Dio.netty.allocator.numDirectArenas: 8
+[DEBUG] 2023-10-12 14:27:40.854 [main] PooledByteBufAllocator - -Dio.netty.allocator.pageSize: 8192
+[DEBUG] 2023-10-12 14:27:40.854 [main] PooledByteBufAllocator - -Dio.netty.allocator.maxOrder: 9
+[DEBUG] 2023-10-12 14:27:40.854 [main] PooledByteBufAllocator - -Dio.netty.allocator.chunkSize: 4194304
+[DEBUG] 2023-10-12 14:27:40.854 [main] PooledByteBufAllocator - -Dio.netty.allocator.smallCacheSize: 256
+[DEBUG] 2023-10-12 14:27:40.854 [main] PooledByteBufAllocator - -Dio.netty.allocator.normalCacheSize: 64
+[DEBUG] 2023-10-12 14:27:40.854 [main] PooledByteBufAllocator - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+[DEBUG] 2023-10-12 14:27:40.855 [main] PooledByteBufAllocator - -Dio.netty.allocator.cacheTrimInterval: 8192
+[DEBUG] 2023-10-12 14:27:40.855 [main] PooledByteBufAllocator - -Dio.netty.allocator.cacheTrimIntervalMillis: 0
+[DEBUG] 2023-10-12 14:27:40.855 [main] PooledByteBufAllocator - -Dio.netty.allocator.useCacheForAllThreads: false
+[DEBUG] 2023-10-12 14:27:40.855 [main] PooledByteBufAllocator - -Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+[DEBUG] 2023-10-12 14:27:40.872 [main] ByteBufUtil - -Dio.netty.allocator.type: pooled
+[DEBUG] 2023-10-12 14:27:40.873 [main] ByteBufUtil - -Dio.netty.threadLocalDirectBufferSize: 0
+[DEBUG] 2023-10-12 14:27:40.873 [main] ByteBufUtil - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+[DEBUG] 2023-10-12 14:27:41.677 [Forwarding newSession on session null to remote] DefaultChannelId - -Dio.netty.processId: 22556 (auto-detected)
+[DEBUG] 2023-10-12 14:27:41.680 [Forwarding newSession on session null to remote] NetUtil - -Djava.net.preferIPv4Stack: false
+[DEBUG] 2023-10-12 14:27:41.681 [Forwarding newSession on session null to remote] NetUtil - -Djava.net.preferIPv6Addresses: false
+[DEBUG] 2023-10-12 14:27:41.694 [Forwarding newSession on session null to remote] NetUtilInitializations - Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+[DEBUG] 2023-10-12 14:27:41.695 [Forwarding newSession on session null to remote] NetUtil - Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+[DEBUG] 2023-10-12 14:27:41.735 [Forwarding newSession on session null to remote] DefaultChannelId - -Dio.netty.machineId: 34:f6:4b:ff:fe:52:35:d7 (auto-detected)
+[DEBUG] 2023-10-12 14:27:41.801 [AsyncHttpClient-1-2] AbstractByteBuf - -Dio.netty.buffer.checkAccessible: true
+[DEBUG] 2023-10-12 14:27:41.801 [AsyncHttpClient-1-2] AbstractByteBuf - -Dio.netty.buffer.checkBounds: true
+[DEBUG] 2023-10-12 14:27:41.801 [AsyncHttpClient-1-2] ResourceLeakDetectorFactory - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@f79c5c4
+[DEBUG] 2023-10-12 14:27:41.843 [AsyncHttpClient-1-2] Recycler - -Dio.netty.recycler.maxCapacityPerThread: 4096
+[DEBUG] 2023-10-12 14:27:41.843 [AsyncHttpClient-1-2] Recycler - -Dio.netty.recycler.ratio: 8
+[DEBUG] 2023-10-12 14:27:41.843 [AsyncHttpClient-1-2] Recycler - -Dio.netty.recycler.chunkSize: 32
+[DEBUG] 2023-10-12 14:27:41.843 [AsyncHttpClient-1-2] Recycler - -Dio.netty.recycler.blocking: false
+[DEBUG] 2023-10-12 14:27:41.843 [AsyncHttpClient-1-2] Recycler - -Dio.netty.recycler.batchFastThreadLocalOnly: true
+[DEBUG] 2023-10-12 14:27:43.647 [AsyncHttpClient-1-2] Brotli - brotli4j not in the classpath; Brotli support will be unavailable.
+[DEBUG] 2023-10-12 14:27:43.932 [main] ThreadLocalRandom - -Dio.netty.initialSeedUniquifier: 0x732c76347531e19d
+[INFO ] 2023-10-12 14:27:47.280 [main] homeModuleTest - browser is open
+[INFO ] 2023-10-12 14:27:47.390 [main] homeModuleTest - Strating the E-commerce scenarion test.
+[DEBUG] 2023-10-12 14:27:47.933 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-10-12 14:27:47.940 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-10-12 14:27:47.942 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[TRACE] 2023-10-12 14:27:48.563 [main] XBeanDebug - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2023-10-12 14:27:48.569 [main] XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2023-10-12 14:27:48.570 [main] XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2023-10-12 14:27:48.571 [main] XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2023-10-12 14:27:48.573 [main] XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2023-10-12 14:27:48.577 [main] XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2023-10-12 14:27:48.621 [main] XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2023-10-12 14:27:48.622 [main] XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2023-10-12 14:27:48.635 [main] XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2023-10-12 14:27:48.638 [main] XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2023-10-12 14:27:48.641 [main] XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2023-10-12 14:27:48.642 [main] XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2023-10-12 14:27:48.643 [main] XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2023-10-12 14:27:48.645 [main] XBeanDebug - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2023-10-12 14:27:48.824 [main] XBeanDebug - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2023-10-12 14:27:48.826 [main] XBeanDebug - Resolving type for handle themefd26doctype
+[TRACE] 2023-10-12 14:27:48.946 [main] XBeanDebug - Resolving type for handle stylesheet5d8bdoctype
+[TRACE] 2023-10-12 14:27:48.965 [main] XBeanDebug - Resolving type for handle ctstylesheet4257type
+[TRACE] 2023-10-12 14:27:48.976 [main] XBeanDebug - Resolving type for handle ctfonts6623type
+[TRACE] 2023-10-12 14:27:48.982 [main] XBeanDebug - Resolving type for handle ctfont14d8type
+[TRACE] 2023-10-12 14:27:49.265 [main] XBeanDebug - Resolving type for handle ctfills2c6ftype
+[TRACE] 2023-10-12 14:27:49.282 [main] XBeanDebug - Resolving type for handle ctfill550ctype
+[TRACE] 2023-10-12 14:27:49.290 [main] XBeanDebug - Resolving type for handle ctborders0d66type
+[TRACE] 2023-10-12 14:27:49.298 [main] XBeanDebug - Resolving type for handle ctborderf935type
+[TRACE] 2023-10-12 14:27:49.309 [main] XBeanDebug - Resolving type for handle ctcellxfs1322type
+[TRACE] 2023-10-12 14:27:49.315 [main] XBeanDebug - Resolving type for handle ctxf97f7type
+[TRACE] 2023-10-12 14:27:49.321 [main] XBeanDebug - Resolving type for handle ctcellstylexfsa81ftype
+[TRACE] 2023-10-12 14:27:49.324 [main] XBeanDebug - Resolving type for handle ctdxfsb26atype
+[TRACE] 2023-10-12 14:27:49.327 [main] XBeanDebug - Resolving type for handle cttablestyles872ftype
+[TRACE] 2023-10-12 14:27:49.331 [main] XBeanDebug - Resolving type for handle sstf81fdoctype
+[TRACE] 2023-10-12 14:27:49.339 [main] XBeanDebug - Resolving type for handle ctsst44f3type
+[TRACE] 2023-10-12 14:27:49.359 [main] XBeanDebug - Resolving type for handle ctrsta472type
+[DEBUG] 2023-10-12 14:27:49.386 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[TRACE] 2023-10-12 14:27:49.389 [main] XBeanDebug - Resolving type for handle workbookec17doctype
+[TRACE] 2023-10-12 14:27:49.394 [main] XBeanDebug - Resolving type for handle ctworkbook83c3type
+[TRACE] 2023-10-12 14:27:49.411 [main] XBeanDebug - Resolving type for handle ctsheets49fdtype
+[TRACE] 2023-10-12 14:27:49.437 [main] XBeanDebug - Resolving type for handle ctsheet4dbetype
+[TRACE] 2023-10-12 14:27:49.558 [main] XBeanDebug - Resolving type for handle strelationshipid1e94type
+[TRACE] 2023-10-12 14:27:49.598 [main] XBeanDebug - Resolving type for handle worksheetf539doctype
+[TRACE] 2023-10-12 14:27:49.651 [main] XBeanDebug - Resolving type for handle ctworksheet530dtype
+[TRACE] 2023-10-12 14:27:49.679 [main] XBeanDebug - Resolving type for handle ctsheetdata8408type
+[TRACE] 2023-10-12 14:27:49.705 [main] XBeanDebug - Resolving type for handle ctrowdd39type
+[TRACE] 2023-10-12 14:27:49.727 [main] XBeanDebug - Resolving type for handle ctcell842btype
+[TRACE] 2023-10-12 14:27:49.753 [main] XBeanDebug - Resolving type for handle stcellrefe4e0type
+[TRACE] 2023-10-12 14:27:49.775 [main] XBeanDebug - Resolving type for handle ctcols627ctype
+[TRACE] 2023-10-12 14:27:49.788 [main] XBeanDebug - Resolving type for handle ctcola95ftype
+[TRACE] 2023-10-12 14:27:49.855 [main] XBeanDebug - Resolving type for handle cthyperlinks6416type
+[TRACE] 2023-10-12 14:27:49.861 [main] XBeanDebug - Resolving type for handle cthyperlink0c85type
+[TRACE] 2023-10-12 14:27:49.898 [main] XBeanDebug - Resolving type for handle stxstringf179type
+[TRACE] 2023-10-12 14:27:49.904 [main] XBeanDebug - Resolving type for handle stcelltypebf95type
+[TRACE] 2023-10-12 14:27:51.779 [main] SignInEmail - navigated toAmazon Sign Inhttps://www.amazon.in/ap/signin?openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.in%2F%3Fref_%3Dnav_signin&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=inflex&openid.mode=checkid_setup&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0
+[TRACE] 2023-10-12 14:27:52.943 [main] Password - navigated toAmazon Sign Inhttps://www.amazon.in/ap/signin
+[INFO ] 2023-10-12 14:27:53.193 [main] Password - you sucessfully signed to your accout.
+[INFO ] 2023-10-12 14:27:55.780 [main] HomePage - navigated toOnline Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.inhttps://www.amazon.in/?ref_=nav_signin
+[TRACE] 2023-10-12 14:27:59.482 [main] ProductSelection - navigated toAmazon.in : toys for girlshttps://www.amazon.in/s?k=toys+for+girls&crid=29YKQJPCQGLYW&sprefix=toys+for+gir%2Caps%2C278&ref=nb_sb_noss_2
+[INFO ] 2023-10-12 14:28:02.035 [main] ProductSelection - we clicked product details: /nSponsored
+PLUSPOINT Exploding Kittens LLC A Card Game About Kitten and Explosions and Sometimes Goats (Exploding Kittens) (Red Kitten)
+12
+100+ bought in past month
+Great Indian Festival
+₹749 M.R.P:
+₹2,999 (75% off)
+Save 1% with coupon
+Get it by Friday, 20 October
+FREE Delivery by Amazon
+Ages: 5 years and up
+[INFO ] 2023-10-12 14:28:02.314 [main] ProductSelection - switch to sub window.
+[TRACE] 2023-10-12 14:28:38.137 [main] ProductClick - navigated toBuy PLUSPOINT Exploding Kittens LLC A Card Game About Kitten and Explosions and Sometimes Goats (Exploding Kittens) (Red Kitten) Online at Low Prices in India - Amazon.inhttps://www.amazon.in/PLUSPOINT-Exploding-Kittens-Explosions-Sometimes/dp/B09H5V8JN8/ref=sr_1_2_sspa?crid=29YKQJPCQGLYW&keywords=toys+for+girls&qid=1697101076&sprefix=toys+for+gir%2Caps%2C278&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1
+[INFO ] 2023-10-12 14:28:38.369 [main] ProductClick - selected the product quantity '3'
+[TRACE] 2023-10-12 14:28:40.943 [main] AddingCart - navigated toAmazon.in Shopping Carthttps://www.amazon.in/cart/smart-wagon?newItems=098e399e-af66-4313-a0ed-657e5e46ea10,3&ref_=sw_refresh
+[ERROR] 2023-10-12 14:28:42.659 [main] AddingCart - failed to add to the product to the cart.
+[TRACE] 2023-10-12 14:28:42.673 [main] AddingCart - navigated toAmazon.in Shopping Carthttps://www.amazon.in/cart?ref_=sw_gtc
+[TRACE] 2023-10-12 14:28:44.593 [main] AddingCart - navigated toAmazon Sign Inhttps://www.amazon.in/ap/signin?openid.pape.max_auth_age=900&openid.return_to=https%3A%2F%2Fwww.amazon.in%2Fgp%2Fyourstore%2Fhome%3Fpath%3D%252Fgp%252Fyourstore%252Fhome%26signIn%3D1%26useRedirectOnSuccess%3D1%26action%3Dsign-out%26ref_%3Dnav_AccountFlyout_signout&openid.assoc_handle=inflex&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0
+[TRACE] 2023-10-12 14:28:44.622 [AsyncHttpClient-1-4] WebSocket08FrameEncoder - Encoding WebSocket Frame opCode=8 length=26
+[INFO ] 2023-10-12 16:05:39.144 [main] homeModuleTest - browser is open
+[INFO ] 2023-10-12 16:05:55.508 [main] homeModuleTest - Strating the E-commerce scenarion test.
+[INFO ] 2023-10-12 16:05:59.824 [main] SignInEmail - navigated toAmazon Sign Inhttps://www.amazon.in/ap/signin?openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.in%2F%3Fref_%3Dnav_signin&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=inflex&openid.mode=checkid_setup&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0
+[INFO ] 2023-10-12 16:06:01.375 [main] Password - navigated toAmazon Sign Inhttps://www.amazon.in/ap/signin
+[INFO ] 2023-10-12 16:06:04.569 [main] Password - you sucessfully signed to your accout.
+[INFO ] 2023-10-12 16:06:05.352 [main] HomePage - navigated toOnline Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.inhttps://www.amazon.in/?ref_=nav_signin
+[INFO ] 2023-10-12 16:06:11.015 [main] HomePage - navigated toAmazon.in : toys for girlshttps://www.amazon.in/s?k=toys+for+girls&crid=396ZDUJ30FR55&sprefix=toys+for+gir%2Caps%2C249&ref=nb_sb_noss_2
+[INFO ] 2023-10-12 16:06:11.290 [main] ProductSelection - navigated toAmazon.in : toys for girlshttps://www.amazon.in/s?k=toys+for+girls&crid=396ZDUJ30FR55&sprefix=toys+for+gir%2Caps%2C249&ref=nb_sb_noss_2
+[INFO ] 2023-10-12 16:06:12.341 [main] ProductSelection - we clicked product details: /nSponsored
+Shumee Wooden Butterfly Balance Board (3-8 Years) - Indoor & Outdoor Activity Fitness Toy for Kids
+184
+Great Indian Festival
+₹3,149 M.R.P:
+₹3,499 (10% off)
+Save 2% with coupon
+Get it by Friday, 27 October
+FREE Delivery by Amazon
+Ages: 36 months - 8 years
+[INFO ] 2023-10-12 16:06:33.221 [main] homeModuleTest - browser is open
+[INFO ] 2023-10-12 16:06:42.665 [main] homeModuleTest - Strating the E-commerce scenarion test.
+[INFO ] 2023-10-12 16:08:06.135 [main] SignInEmail - navigated toAmazon Sign Inhttps://www.amazon.in/ap/signin?openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.in%2F%3Fref_%3Dnav_signin&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=inflex&openid.mode=checkid_setup&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0
+[INFO ] 2023-10-12 16:12:53.392 [main] homeModuleTest - browser is open
+[INFO ] 2023-10-12 16:12:53.439 [main] homeModuleTest - Strating the E-commerce scenarion test.
