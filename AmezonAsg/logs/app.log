@@ -1,0 +1,58 @@
+[INFO ] 2023-10-19 18:28:52.267 [main] homeModuleTest - browser is open
+[INFO ] 2023-10-19 18:28:52.466 [main] homeModuleTest - Strating the E-commerce scenarion test.
+[INFO ] 2023-10-19 18:29:06.903 [main] homeModuleTest - browser is open
+[INFO ] 2023-10-19 18:29:06.911 [main] homeModuleTest - Strating the E-commerce scenarion test.
+[INFO ] 2023-10-19 18:32:34.519 [main] homeModuleTest - browser is open
+[INFO ] 2023-10-19 18:32:34.634 [main] homeModuleTest - Strating the E-commerce scenarion test.
+[INFO ] 2023-10-19 18:32:40.554 [main] SignInEmail - navigated toAmazon Sign Inhttps://www.amazon.in/ap/signin?openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.in%2F%3Ftag%3Dmsndeskstdin-21%26ref%3Dnav_signin%26adgrpid%3D1315017517456642%26hvadid%3D82188861834005%26hvnetw%3Do%26hvqmt%3Db%26hvbmt%3Dbb%26hvdev%3Dc%26hvlocint%3D%26hvlocphy%3D157546%26hvtargid%3Dkwd-82189475779885%3Aloc-90%26hydadcr%3D5902_2377547&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=inflex&openid.mode=checkid_setup&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0
+[INFO ] 2023-10-19 18:32:42.490 [main] Password - navigated toAmazon Sign Inhttps://www.amazon.in/ap/signin
+[INFO ] 2023-10-19 18:32:42.984 [main] Password - you sucessfully signed to your accout.
+[INFO ] 2023-10-19 18:32:46.473 [main] HomePage - navigated toOnline Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.inhttps://www.amazon.in/?tag=msndeskstdin-21&ref=nav_signin&adgrpid=1315017517456642&hvadid=82188861834005&hvnetw=o&hvqmt=b&hvbmt=bb&hvdev=c&hvlocint=&hvlocphy=157546&hvtargid=kwd-82189475779885%3Aloc-90&hydadcr=5902_2377547
+[INFO ] 2023-10-19 18:32:51.555 [main] HomePage - navigated toAmazon.in : toys for girlshttps://www.amazon.in/s?k=toys+for+girls&crid=18K9AJNQODNDE&sprefix=toys+for+gir%2Caps%2C333&ref=nb_sb_noss_2
+[INFO ] 2023-10-19 18:32:51.618 [main] ProductSelection - navigated toAmazon.in : toys for girlshttps://www.amazon.in/s?k=toys+for+girls&crid=18K9AJNQODNDE&sprefix=toys+for+gir%2Caps%2C333&ref=nb_sb_noss_2
+[INFO ] 2023-10-19 18:32:54.423 [main] ProductSelection - we clicked product details: /nSponsored
+Amazon Brand - Jam & Honey Wooden Beads Pattern Box, Multicolour, 40 Beads| Learning Toys for Kids, Boys & Girls Return Gift for Birthday Parties Wood
+75
+200+ bought in past month
+Great Indian Festival
+₹475 M.R.P:
+₹1,100 (57% off)
+Buy 2 items, get 5% off
+Get it by Saturday, 21 October
+FREE Delivery
+Ages: 24 months - 7 years
+[INFO ] 2023-10-19 18:32:54.492 [main] ProductSelection - switch to sub window.
+[INFO ] 2023-10-19 18:33:03.537 [main] ProductClick - navigated toAmazon Brand - Jam & Honey Wooden Beads Pattern Box, Multicolour, 40 Beads| Learning Toys for Kids, Boys & Girls Return Gift for Birthday Parties Wood : Amazon.in: Toys & Gameshttps://www.amazon.in/Amazon-Brand-Honey-Pattern-Multicolour/dp/B0BB4CQMNZ/ref=sr_1_2_sspa?crid=18K9AJNQODNDE&keywords=toys+for+girls&qid=1697720570&sprefix=toys+for+gir%2Caps%2C333&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1
+[INFO ] 2023-10-19 18:33:04.198 [main] ProductClick - selected the product quantity '3'
+[INFO ] 2023-10-19 18:33:09.757 [main] AddingCart - product add to the cart successfully
+[INFO ] 2023-10-19 18:33:09.787 [main] AddingCart - navigated toAmazon.in Shopping Carthttps://www.amazon.in/cart?ref_=sw_gtc
+[INFO ] 2023-10-19 18:33:11.907 [main] AddingCart - navigated toAmazon Sign Inhttps://www.amazon.in/ap/signin?openid.pape.max_auth_age=900&openid.return_to=https%3A%2F%2Fwww.amazon.in%2Fgp%2Fyourstore%2Fhome%3Fpath%3D%252Fgp%252Fyourstore%252Fhome%26useRedirectOnSuccess%3D1%26signIn%3D1%26action%3Dsign-out%26ref_%3Dnav_AccountFlyout_signout&openid.assoc_handle=inflex&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0
+[INFO ] 2023-10-19 18:33:23.991 [main] homeModuleTest - browser is open
+[INFO ] 2023-10-19 18:33:23.996 [main] homeModuleTest - Strating the E-commerce scenarion test.
+[INFO ] 2023-10-19 18:40:41.064 [main] homeModuleTest - browser is open
+[INFO ] 2023-10-19 18:40:41.172 [main] homeModuleTest - Strating the E-commerce scenarion test.
+[INFO ] 2023-10-19 18:40:47.190 [main] SignInEmail - navigated toAmazon Sign Inhttps://www.amazon.in/ap/signin?openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.in%2F%3Ftag%3Dmsndeskstdin-21%26ref%3Dnav_signin%26adgrpid%3D1315017517456642%26hvadid%3D82188861834005%26hvnetw%3Do%26hvqmt%3Db%26hvbmt%3Dbb%26hvdev%3Dc%26hvlocint%3D%26hvlocphy%3D157546%26hvtargid%3Dkwd-82189475779885%3Aloc-90%26hydadcr%3D5902_2377547&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=inflex&openid.mode=checkid_setup&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0
+[INFO ] 2023-10-19 18:40:49.078 [main] Password - navigated toAmazon Sign Inhttps://www.amazon.in/ap/signin
+[INFO ] 2023-10-19 18:40:49.553 [main] Password - you sucessfully signed to your accout.
+[INFO ] 2023-10-19 18:40:52.883 [main] HomePage - navigated toOnline Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.inhttps://www.amazon.in/?tag=msndeskstdin-21&ref=nav_signin&adgrpid=1315017517456642&hvadid=82188861834005&hvnetw=o&hvqmt=b&hvbmt=bb&hvdev=c&hvlocint=&hvlocphy=157546&hvtargid=kwd-82189475779885%3Aloc-90&hydadcr=5902_2377547
+[INFO ] 2023-10-19 18:40:59.317 [main] HomePage - navigated toAmazon.in : toys for girlshttps://www.amazon.in/s?k=toys+for+girls&crid=1AP70FZNGZ8UH&sprefix=toys+for+girls%2Caps%2C273&ref=nb_sb_noss_1
+[INFO ] 2023-10-19 18:40:59.356 [main] ProductSelection - navigated toAmazon.in : toys for girlshttps://www.amazon.in/s?k=toys+for+girls&crid=1AP70FZNGZ8UH&sprefix=toys+for+girls%2Caps%2C273&ref=nb_sb_noss_1
+[INFO ] 2023-10-19 18:41:00.895 [main] ProductSelection - we clicked product details: /nSponsored
+Amazon Brand - Jam & Honey Wooden Beads Pattern Box, Multicolour, 40 Beads| Learning Toys for Kids, Boys & Girls Return Gift for Birthday Parties Wood
+75
+200+ bought in past month
+Great Indian Festival
+₹475 M.R.P:
+₹1,100 (57% off)
+Buy 2 items, get 5% off
+Get it by Saturday, 21 October
+FREE Delivery
+Ages: 24 months - 7 years
+[INFO ] 2023-10-19 18:41:00.986 [main] ProductSelection - switch to sub window.
+[INFO ] 2023-10-19 18:41:11.037 [main] ProductClick - navigated toAmazon Brand - Jam & Honey Wooden Beads Pattern Box, Multicolour, 40 Beads| Learning Toys for Kids, Boys & Girls Return Gift for Birthday Parties Wood : Amazon.in: Toys & Gameshttps://www.amazon.in/Amazon-Brand-Honey-Pattern-Multicolour/dp/B0BB4CQMNZ/ref=sr_1_2_sspa?crid=1AP70FZNGZ8UH&keywords=toys+for+girls&qid=1697721056&sprefix=toys+for+girls%2Caps%2C273&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1
+[INFO ] 2023-10-19 18:41:11.475 [main] ProductClick - selected the product quantity '3'
+[ERROR] 2023-10-19 18:41:16.994 [main] AddingCart - failed to add to the product to the cart.
+[INFO ] 2023-10-19 18:41:17.086 [main] AddingCart - navigated toAmazon.in Shopping Carthttps://www.amazon.in/cart?ref_=sw_gtc
+[INFO ] 2023-10-19 18:41:19.334 [main] AddingCart - navigated toAmazon Sign Inhttps://www.amazon.in/ap/signin?openid.pape.max_auth_age=900&openid.return_to=https%3A%2F%2Fwww.amazon.in%2Fgp%2Fyourstore%2Fhome%3Fpath%3D%252Fgp%252Fyourstore%252Fhome%26useRedirectOnSuccess%3D1%26signIn%3D1%26action%3Dsign-out%26ref_%3Dnav_AccountFlyout_signout&openid.assoc_handle=inflex&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0
+[INFO ] 2023-10-19 18:41:31.707 [main] homeModuleTest - browser is open
+[INFO ] 2023-10-19 18:41:31.719 [main] homeModuleTest - Strating the E-commerce scenarion test.
